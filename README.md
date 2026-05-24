@@ -88,6 +88,8 @@ fan-momentum-index/
 │   │
 │   └── raw/
 │
+├── demo/
+│   └── fmi_dashboard_demo.mp4
 ├── notebooks/
 │   ├── fmi_extract_tweets.ipynb
 │   ├── sentiment_scoring.ipynb
@@ -237,6 +239,12 @@ The project includes visualizations for:
 - Fan momentum fluctuations
 - Match event overlays
 - Momentum spike detection
+
+---
+
+# Demo
+
+A demonstration video of the Fan Momentum Index dashboard and visualization pipeline is included in the `demo/` folder.
 
 ---
 
